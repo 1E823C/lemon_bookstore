@@ -1,0 +1,164 @@
+.bookShow_valid {
+	width: 62%;
+	margin: 0 auto;
+}
+
+.sjfl {
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	border-bottom: 3px solid #d96d53;
+}
+
+.sjfl_box {
+	/* float: left; */
+	width: 20%;
+	height: 42px;
+	background-color: #d96d53;
+	/* margin-top: 50px; */
+	/* margin-left: 100px; */
+}
+
+.sjfl_box p {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 17px;
+	text-align: center;
+	line-height: 42px;
+}
+
+.bookShow_content {
+	/* float: left; */
+	/* margin-top: 30px; */
+	
+}
+
+.bookSurface {
+	float: left;
+	width: 35%;
+	/* background-color: red; */
+}
+
+.bookSurface img {
+	width: 100%;
+}
+
+.bookInfor {
+	float: left;
+	margin-left: 50px;
+	/* background-color: yellow; */
+}
+
+.bookInfor p {
+	color: #a0a0a0;
+	letter-spacing: 2px;
+	line-height: 35px;
+}
+
+.bookInfor .bookTitle {
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+.num {
+	margin-top: 10px;
+}
+
+.num p {
+	display: inline;
+}
+
+.num input {
+	width: 35px;
+	height: 30px;
+	text-align: center;
+}
+
+.num button {
+	width: 30px;
+	height: 35px;
+}
+
+.bookSubButton {
+	margin-top: 20px;
+}
+
+.bookSubButton input {
+	width: 100px;
+	height: 40px;
+	border: none;
+	background-color: #FF0000;
+	color: #FFFFFF;
+	border-radius: 5px;
+}
+
+.bookSubButton input:hover {
+	background-color: #fd565e;
+}
+
+.productDetails {
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.productDetails input {
+	width: 120px;
+	height: 40px;
+	border: none;
+	background-color: #d96d53;
+	color: #FFFFFF;
+}
+
+.product_content {
+	width: 100%;
+	border: 2px solid #d96d53;
+}
+
+.product_para {
+	margin-left: 50px;
+}
+
+.product_para h3 {
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.product_para p {
+	/* float: left; */
+	color: #a0a0a0;
+	font-size: 14px;
+	margin-left: 80px;
+	letter-spacing: 2px;
+	line-height: 30px;
+}
+
+.book_descrip {
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+
+.book_descrip h3 {
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.book_descrip p {
+	/* float: left; */
+	color: #a0a0a0;
+	font-size: 14px;
+	/* margin-left: 80px; */
+	margin-right: 50px;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+
+/* 底部标识栏 */
+.bottomNav img {
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 100px;
+}

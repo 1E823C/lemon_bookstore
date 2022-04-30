@@ -1,0 +1,123 @@
+.search_valid {
+	width: 62%;
+	margin: 0 auto;
+	/* background-color: #D96D53; */
+	/* margin-bottom: 30px; */
+}
+
+.logo_nav {
+	/* width: 1500px; */
+	/* 	height: 190px;
+	margin-top: 30px; */
+	/* margin: 0 auto; */
+	
+}
+
+.sjfl {
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+	border-bottom: 3px solid #d96d53;
+}
+
+.sjfl_box {
+	/* float: left; */
+	width: 20%;
+	height: 42px;
+	background-color: #d96d53;
+	/* margin-top: 50px; */
+	/* margin-left: 100px; */
+}
+
+.sjfl_box p {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 17px;
+	text-align: center;
+	line-height: 42px;
+}
+
+/* 搜索图书层列 */
+.onebook {
+	float: left;
+	width: 100%;
+	padding-top: 20px;
+	/* padding-left: 30px; */
+}
+
+.onebook_left {
+	float: left;
+	width: 16%;
+}
+
+.onebook_left img {
+	width: 100%;
+}
+
+.onebook_left img:hover {
+	width: 105%;
+	/* overflow: hidden; */
+}
+
+.onebook_right {
+	float: left;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+.onebook_right p {
+	font-size: 15px;
+	margin-bottom: 7px;
+}
+
+.onebook_right h3 {
+	display: inline;
+	color: #ff2832;
+	font-size: 16px;
+}
+
+.danwei {
+	font-size: 16px;
+	color: #ff2832;
+	font-weight: bold;
+}
+
+.author_and_publish {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.author_and_publish span {
+	color: #ff2832;
+	font-size: 14px;
+	color: #1a66b3;
+}
+
+.onebook_right .name {
+	color: #ff2832;
+}
+
+.onebook_right .jianjie {
+	color: #1a66b3;
+}
+
+.mainbutton input {
+	width: 130px;
+	height: 30px;
+	border-radius: 20px;
+	border: none;
+	background-color: #ff2832;
+	color: #FFFFFF;
+	outline: none;
+}
+
+.mainbutton input:hover {
+	background-color: #fd565e;
+}
+
+/* 底部标识栏 */
+.bottomNav img {
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 135px;
+}

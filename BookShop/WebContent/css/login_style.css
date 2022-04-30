@@ -1,0 +1,127 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #fcf4d3;
+}
+
+.login_valid {
+	width: 62%;
+	margin: 0 auto;
+}
+
+.login_topleft img {
+	float: left;
+	width: 19%;
+	margin-top: 10px;
+}
+
+.login_topright {
+	float: right;
+	margin-top: 45px;
+}
+
+.login_topright img {
+	width: 11%;
+	vertical-align: middle;
+}
+
+.login_topright p {
+	font-size: 14px;
+	color: #6c6c6c;
+}
+
+.login_content img {
+	width: 100%;
+	margin-top: 10px;
+}
+
+.login_bottom_box {
+	width: 22%;
+	height: 45%;
+	background-color: #FFFFFF;
+	position: absolute;
+	right: 19%;
+	top: 30%;
+}
+
+.login_bottom_box h3 {
+	color: #515151;
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 6%;
+}
+
+input::-webkit-input-placeholder {
+	/* color: red; */
+	position: relative;
+	left: 20px;
+	color: #a0a0a0;
+}
+
+#USER_NAME {
+	display: block;
+	width: 80%;
+	height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#fef9e3;
+	border: none;
+	font-size: 14px;
+	color: #6C6C6C;
+}
+
+#USER_PWD {
+	display: block;
+	width: 80%;
+	height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fef9e3;
+	border: none;
+	margin-top: 10%;
+	font-size: 14px;
+	color: #6C6C6C;
+}
+
+#USER_CMI {
+	display: block;
+	width: 80%;
+	height: 25px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 6%;
+	background-color: #f52b00;
+	border: none;
+	margin-top: 8%;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+
+#USER_CMI:hover {
+	background-color: #fb4646;
+}
+
+#register{
+	margin-top: 4%;
+	font-size: 16px;
+}
+
+#forget_pwd{
+	margin-left: 18%;
+	margin-top: 4%;
+	font-size: 16px;
+}
+
+
+
+.login_bottom_box a {
+	float: right;
+	text-decoration: none;
+	margin-right: 12%;
+	color: #6c6c6c;
+	font-size: 12px;
+}

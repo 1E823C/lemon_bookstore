@@ -1,0 +1,150 @@
+.focus {
+	position: relative;
+	width: 60%;
+	/* margin: 0 5px; */
+}
+
+.focus img {
+	width: 100%;
+	/* height:390px; */
+}
+
+.focus .fPic {
+	position: absolute;
+	left: 4px;
+	top: 4px;
+}
+
+.focus .D1fBt {
+	overflow: hidden;
+	zoom: 1;
+	height: 16px;
+	z-index: 10;
+}
+
+.focus .shadow {
+	width: 100%;
+	position: relative;
+	bottom: 50px;
+	/* left:10; */
+	z-index: 10;
+	height: 50px;
+	line-height: 50px;
+	background: rgba(0, 0, 0, 0.3);
+	display: block;
+	text-align: left;
+}
+
+.focus .shadow a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	overflow: hidden;
+	margin-left: 30px;
+	font-family: "\5FAE\8F6F\96C5\9ED1";
+}
+
+.focus .fcon {
+	position: relative;
+	width: 100%;
+	float: left;
+	display: none;
+	/* background:#000 */
+}
+
+.focus .fcon img {
+	display: block;
+}
+
+.focus .fbg {
+	position: relative;
+	top: 100px;
+	left: 10px;
+	/* height:21px; */
+	/* text-align:center; */
+	z-index: 200;
+}
+
+.focus .fbg div {
+	/* margin:0px auto 0; */
+	/* overflow:hidden; */
+	/* zoom:1; */
+	/* height:14px */
+	
+}
+
+.focus .D1fBt a {
+	position: relative;
+	display: inline;
+	width: 12px;
+	height: 12px;
+	border-radius: 7px;
+	margin: 0 5px;
+	color: #b0b0b0;
+	font: 12px/15px "\5B8B\4F53";
+	text-decoration: none;
+	text-align: center;
+	outline: 0;
+	float: left;
+	background: #D9D9D9;
+}
+
+.focus .D1fBt .current, .focus .D1fBt a:hover {
+	background: #fc114a;
+}
+
+.focus .D1fBt i {
+	display: none;
+	font-style: normal;
+}
+
+/* *{ margin:0; padding:0;font-family:Microsoft Yahei,Verdana,Arial; font-size:12px;}
+a{ text-decoration:none;  color: #666;}
+a:hover{ text-decoration:none; color:#46b448;}
+li{ list-style:none;}
+img{ border:none;}
+i, em {
+	font-style: normal;
+}
+.fl{ float:left;} */
+.focus {
+	height: 300px;;
+	/* border: 1px solid #dee8ef; */
+	/* box-sizing: border-box; */
+}
+/*焦点图*/
+/* .focus{position:relative;width:760px;margin: 0 5px;}
+.focus img{width:750px;height:290px;}
+.focus .shadow .title{width:260px;height:65px;padding-left:30px;padding-top:20px;}
+.focus .shadow .title a{text-decoration:none;color:#fff;font-size:14px;font-weight:bolder;overflow:hidden;}
+.focus .btn{position:absolute;bottom:34px;left:510px;overflow:hidden;zoom:1;}
+.focus .btn a{position:relative;display:inline;width:13px;height:13px;border-radius:7px;margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53";text-decoration:none;text-align:center;outline:0;float:left;background:#D9D9D9;}
+.focus .btn a:hover,.focus .btn a.current{cursor:pointer;background:#fc114a;}
+.focus .fPic{position:absolute;left:4px;top:4px;}
+.focus .D1fBt{overflow:hidden;zoom:1;height:16px;z-index:10;}
+.focus .shadow{width:100%;position:absolute;bottom:0;left:0px;z-index:10;height:50px;line-height:50px;background:rgba(0,0,0,0.6);
+	filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorstr = '#80000000',endColorstr = '#80000000')\9;display:block;text-align:left;}
+.focus .shadow a{text-decoration:none;color:#fff;font-size:15px;overflow:hidden;margin-left:10px;font-family:"\5FAE\8F6F\96C5\9ED1";}
+.focus .fcon{position:relative;width:100%;float:left;display:none;background:#000  }
+.focus .fcon img{display:block;}
+.focus .fbg{bottom:25px;right:20px;position:absolute;height:21px;text-align:center;z-index:200;}
+.focus .fbg div{margin:13px auto 0;overflow:hidden;zoom:1;height:14px}
+.focus .D1fBt a{position:relative;display:inline;width:12px;height:12px;border-radius:7px;margin:0 5px;color:#B0B0B0;font:12px/15px "\5B8B\4F53";text-decoration:none;text-align:center;outline:0;float:left;background:#D9D9D9;}
+.focus .D1fBt .current,.focus .D1fBt a:hover{background:#fc114a;}
+.focus .D1fBt img{display:none}
+.focus .D1fBt i{display:none;font-style:normal;}
+.help{
+	width: 200px;
+}
+.help h2{
+	background: #f0f4f7;
+	line-height: 30px;
+	color: #7f9aab;
+	text-indent: 2em;
+	border-bottom: 1px solid #dee8ef;
+}
+.help ul{
+	line-height: 26px;
+	list-style-type: circle;
+	padding-left: 10px;
+} */

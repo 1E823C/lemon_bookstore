@@ -1,0 +1,50 @@
+/* logo所在行 */
+.index_valid {
+	width: 70%;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+}
+
+.logo_nav {
+	float: left;
+	width: 100%;
+}
+
+.logo_nav .logo {
+	float: left;
+	width: 25%;
+	margin-right: 60px;
+	/* background-color: red; */
+}
+
+.logo img {
+	width: 100%;
+}
+
+.research_box input {
+	float: left;
+	width: 55%;
+	height: 70px;
+	background-color: #b6e099;
+	border-radius: 50px;
+	border: none;
+	margin-top: 25px;
+	outline: none;
+	text-align: left;
+	color: #a0a0a0;
+	font-size: 14px;
+	padding-left: 30px;
+	/* letter-spacing:20px; */
+}
+
+input::-webkit-input-placeholder {
+	position: relative;
+	color: #a0a0a0;
+}
+
+.research_box img {
+	width: 30px;
+	position: relative;
+	right: 50px;
+	top: 40px;
+}

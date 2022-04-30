@@ -1,0 +1,265 @@
+.submit_valid {
+	width: 62%;
+	margin: 0 auto;
+}
+
+.submit_valid .logo_nav {
+	width: 100%;
+	/* padding-bottom: 50px; */
+}
+
+.logo_nav .logo {
+	float: left;
+	width: 25%;
+	/* background-color: red; */
+}
+
+.logo_nav .logo img {
+	width: 100%;
+}
+
+.logo_nav .shopNav_box {
+	float: left;
+	width: 60%;
+	margin-top: 50px;
+	margin-left: 60px;
+	/* background-color: yellow; */
+}
+
+.myShopCar {
+	float: left;
+	width: 33%;
+}
+
+.myShopCar img {
+	width: 100%;
+}
+
+.fillOrder {
+	float: left;
+	width: 30%;
+	margin-left: -13px;
+}
+
+.fillOrder img {
+	width: 100%;
+}
+
+.completeOrder {
+	float: left;
+	width: 28%;
+	margin-left: -10px;
+}
+
+.completeOrder img {
+	width: 100%;
+}
+
+.logo_nav .shopNav_box img {
+	float: left;
+	/* float: left; */
+	/* margin-left: -100px; */
+}
+
+.myShopCar span {
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+	position: relative;
+	top: -33px;
+	left: 60px;
+}
+
+.fillOrder span {
+	font-size: 14px;
+	color: #646471;
+	font-weight: bold;
+	position: relative;
+	top: -33px;
+	left: 60px;
+}
+
+.completeOrder span {
+	font-size: 14px;
+	color: #646471;
+	font-weight: bold;
+	position: relative;
+	top: -33px;
+	left: 60px;
+}
+
+/* 购物车内容 */
+.chShop_box {
+	/* margin-top: 20px; */
+	
+}
+
+.cartProductList {
+	width: 100%;
+	margin-top: 30px;
+	border: 1px solid #a0a0a0;
+}
+
+.cartProductList .qx {
+	width: 20px;
+	height: 20px;
+}
+
+.cartProductList .fx {
+	width: 20px;
+	height: 20px;
+}
+
+.cartProductList th {
+	font-size: 17px;
+	color: #a0a0a0;
+	font-weight: 100;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.cartProductList tbody td {
+	text-align: center;
+	font-size: 14px;
+	color: #3e3e3e;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.cartProductList .book_img {
+	width: 30%;
+	text-align: center;
+	font-size: 14px;
+	color: #3e3e3e;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.cartProductList .book_img img {
+	width: 40%;
+	vertical-align: middle;
+	margin-right: 20px;
+}
+
+.xzsl input {
+	width: 50px;
+	height: 35px;
+	text-align: center;
+}
+
+.xzsl button {
+	width: 35px;
+	height: 40px;
+}
+
+.shopDelete button {
+	width: 55px;
+	height: 35px;
+}
+
+/* 底部结算栏 */
+.cartFoot_box_fix {
+	width: 62%;
+	height: 50px;
+	background-color: #e5e5e5;
+	position: fixed;
+	bottom: 0;
+	left: 19%;
+}
+
+.cartFoot_left {
+	float: left;
+}
+
+.cartFoot_left input {
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.cartFoot_left a {
+	color: #000000;
+	text-decoration: none;
+	line-height: 50px;
+}
+
+.cartFoot_left a:hover {
+	text-decoration: underline;
+}
+
+.cartFoot_right {
+	float: right;
+}
+
+.cartFoot_right p {
+	float: left;
+	line-height: 50px;
+	margin-right: 30px;
+	font-size: 15px;
+}
+
+.cartFoot_right span {
+	margin-right: 10px;
+	margin-left: 10px;
+	color: #ff0000;
+	font-weight: bold;
+}
+
+.cartFoot_right input {
+	float: left;
+	width: 70px;
+	height: 50px;
+	text-align: center;
+}
+
+/* 是否删除图书弹窗 */
+.pop1 {
+	display: none;
+	position: fixed;
+	width: 20%;
+	height: 30%;
+	background-color: #fff;
+	left: 40%;
+	top: 35%;
+	border-radius: 20px;
+	border: 1px solid #8cc962;
+}
+
+.pop1 h3 {
+	text-align: center;
+	margin-top: 35px;
+	margin-bottom: 20px;
+}
+
+.pop1 p {
+	text-align: center;
+	color: #515151;
+}
+
+.pop1 .queding {
+	width: 60px;
+	height: 35px;
+	color: #FFFFFF;
+	background-color: #8cc962;
+	border: none;
+	position: relative;
+	left: 80px;
+	top: 30px;
+}
+
+.pop1 .guanbi {
+	width: 60px;
+	height: 35px;
+	color: #8cc962;
+	background-color: #fff;
+	border: none;
+	border: 1px solid #8cc962;
+	position: relative;
+	left: 100px;
+	top: 30px;
+}
+/* .pop1:target{
+	display: block;
+} */

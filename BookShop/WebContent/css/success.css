@@ -1,0 +1,21 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #fcf4d3;
+}
+
+.success {
+	width: 100%;
+}
+
+h2 {
+	position: fixed;
+	color: #FF0000;
+	text-align: center;
+	left: 45%;
+	top: 45%;
+	margin: 0 auto;
+}

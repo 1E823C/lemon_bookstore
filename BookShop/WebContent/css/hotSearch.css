@@ -1,0 +1,41 @@
+/* 热搜图书 */
+.rsts_box {
+	float: left;
+	width: 100%;
+	/* width: 1500px;
+	height: 925px; */
+	margin-top: 60px;
+}
+
+.rsts_box .toptitle {
+	width: 100%;
+	/* margin-top: 30px; */
+	margin-bottom: 30px;
+}
+
+.toptitle img {
+	width: 15%;
+}
+
+.rsts_content {
+	width: 12%;
+	float: left;
+	margin-right: 43px;
+}
+
+.rsts_content img {
+	width: 100%;
+}
+
+.rsts_content p {
+	color: #7c7c7c;
+	font-size: 14px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.rsts_content h2 {
+	color: #e4393c;
+	font-size: 16px;
+	margin-bottom: 10px;
+}

@@ -1,0 +1,43 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.index_box {
+	width: 100%;
+	/* height: 200px; */
+}
+
+body {
+	background-color: #fcf4d3;
+}
+
+.nav_valid {
+	width: 62%;
+	margin: 0 auto;
+}
+
+/* 顶部nav */
+.index_nav {
+	width: 100%;
+	height: 50px;
+	background-color: #784846;
+}
+
+.nav_right {
+	float: right;
+}
+
+.nav_valid a {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-left: 10px;
+	line-height: 50px;
+}
+
+.nav_valid img {
+	/* line-height: 50px; */
+	width: 30px;
+	vertical-align: middle;
+}
